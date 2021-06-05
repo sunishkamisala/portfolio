@@ -1,4 +1,4 @@
-@import url("fontawesome-all.min.css");
+#D0EAFA@import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
 
 /*
@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #D0EAFA;
+		color: #d0eafa;
 		font-size: 3.5em;
 	}
 
