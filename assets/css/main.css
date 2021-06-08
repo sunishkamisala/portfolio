@@ -1953,7 +1953,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #d0eafa;
+			border-color: #3783b3;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2618,7 +2618,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #d0eafa;
+			background-color: #3783b3;
 			color: #ffffff !important;
 		}
 
